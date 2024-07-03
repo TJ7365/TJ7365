@@ -2,7 +2,6 @@
 # Hello, I'm TJ
 <a href="https://linkedin.com/in/tj-umunna-8046a9292"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am currently an undergrad in Finance and have a strong interest in cybersecurity and enjoy finding solutions that improve an organization's security while protecting the people it serves. 
 
