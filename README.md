@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Securit Auditing                                        | <a href="https://github.com/TJ7365/Security-Audit/tree/main">Security Audit</a>|
-| Incident response                             | <a href="https://github.com/TJ7365/Incident-Report">Detection Lab</a>|
+| Incident response                             | <a href="https://github.com/TJ7365/Incident-Report">Incident Report</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
